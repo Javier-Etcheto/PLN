@@ -5,6 +5,7 @@ Este repositorio contiene tres notebooks principales:
 - `Desafio_1.ipynb`
 - `Desafio_2.ipynb`
 - `Desafio_3.ipynb`
+- `Desafio_4.ipynb`
 
 Cada una corresponde a un desafío distinto. También se incluyen archivos auxiliares utilizados en el desarrollo.
 
@@ -19,6 +20,11 @@ Entrenamiento de embeddings propios con Gensim a partir del texto `Romeo_and_Jul
 ## Desafío 3
 
 Entrenamiento de modelos de lenguaje basados en RNN, LSTM y GRU usando el texto `A_journey_to_the_center_of_the_earth.txt`. Se utilizan estrategias de generación de texto (greedy, beam search determinístico y estocástico) y se analiza el efecto de la temperatura.
+
+## Desafío 4
+
+Construcción de un chat bot que responde preguntas usando datos del challenge ConvAI2. Se preprocesan las conversaciones, se preparan embeddings preentrenados de GloVe y se entrena un modelo encoder-decoder con LSTM. Durante la inferencia se experimenta con diferentes temperaturas para observar cómo afectan la creatividad y coherencia de las respuestas generadas.
+
 
 Se incluyen los siguientes archivos generados:
 
