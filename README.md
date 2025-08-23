@@ -1,6 +1,10 @@
 # Desafíos de PLN
 
-Este repositorio contiene tres notebooks principales:
+<img src="https://github.com/hernancontigiani/ceia_memorias_especializacion/raw/master/Figures/logoFIUBA.jpg" width="500" align="center">
+
+---
+
+Este repositorio contiene cuatro notebooks principales:
 
 - `Desafio_1.ipynb`
 - `Desafio_2.ipynb`
@@ -18,8 +22,7 @@ Análisis de similaridad entre documentos vectorizados, clasificación con model
 Entrenamiento de embeddings propios con Gensim a partir del texto `Romeo_and_Juliet.txt`. Exploración de similitudes semánticas entre palabras, visualización y conclusiones.
 
 ![Visualización de embeddings](embeddings.png)
-
-[Ver gráfico interactivo](embeddings_3d.html)
+*Figura 1. Visualización 2D de embeddings de palabras obtenidos a partir del texto.*
 
 ## Desafío 3
 
